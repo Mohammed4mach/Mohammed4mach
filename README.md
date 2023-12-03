@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<img src="https://wakatime.com/share/@018c28c6-c0fa-4e56-8ced-5e1b9f647810/1759d41d-74c1-434b-a1b1-3895cf262e95.svg" />
+<img 
+  width="500"
+  height="500"
+  src="https://wakatime.com/share/@018c28c6-c0fa-4e56-8ced-5e1b9f647810/2d4e4804-f993-4384-a294-0b6fb4f6c2e4.svg" />
+
 <!--
 **Mohammed4mach/Mohammed4mach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
