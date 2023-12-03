@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<figure><embed src="https://wakatime.com/share/@018c28c6-c0fa-4e56-8ced-5e1b9f647810/1759d41d-74c1-434b-a1b1-3895cf262e95.svg"></embed></figure>
 <!--
 **Mohammed4mach/Mohammed4mach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
