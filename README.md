@@ -1,9 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<img 
-  width="500"
-  height="500"
-  src="https://wakatime.com/share/@018c28c6-c0fa-4e56-8ced-5e1b9f647810/2d4e4804-f993-4384-a294-0b6fb4f6c2e4.svg" />
+<p align="right">
+  <img 
+    src="https://wakatime.com/share/@018c28c6-c0fa-4e56-8ced-5e1b9f647810/1311654e-bbcd-4de9-811b-5946575aceeb.svg" />
+</p>
 
 <!--
 **Mohammed4mach/Mohammed4mach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
